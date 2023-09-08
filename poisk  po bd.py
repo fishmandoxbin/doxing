@@ -58,8 +58,7 @@ print(Fore.BLUE + '[1]' + Fore.BLUE + ' Telegram', '          ' + Fore.YELLOW + 
 print(Fore.RED + '[3]' + Fore.RED + 'FIO', '          ' + Fore.RED + "[4] Number")
 menu = int(input("Введите нужное > "))
 
-if menu == 1:
-    probiv_1.doxing_tg()
+
 
 
 
